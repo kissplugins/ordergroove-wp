@@ -1,1 +1,1 @@
-ordergroove-wp
+Joint venture plugin between Urban Pixels and KISS Plugins (By Neochrome, Inc.)
